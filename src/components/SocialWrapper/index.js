@@ -40,8 +40,8 @@ const items = [
   },
   {
     name: 'LinkedIn',
-    link: 'https://twitter.com/phgrund',
-    user: '@phgrund',
+    link: 'https://www.linkedin.com/in/paulo-henrique-rodrigues-grund-aa8a55150/',
+    user: 'Paulo Henrique Rodrigues Grund',
     logo: <FontAwesomeIcon icon={ faLinkedin } color="#0077b5" size={ size } />,
     color: '#0077b5'
   },
