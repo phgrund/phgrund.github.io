@@ -1,0 +1,10 @@
+.hamburger-box {
+  float: right;
+}
+
+.hamburger-inner {
+  width: 35px;
+  height: 5px;
+  background-color: #000;
+  margin: 6px 0;
+}

@@ -1,5 +1,6 @@
 import React from 'react';
 
+import HamburgerMenu from '../HamburgerMenu';
 import './styles.css';
 
 const Navbar = () => {
@@ -15,6 +16,9 @@ const Navbar = () => {
           <a href="#hobbies">
             Hobbies
           </a>
+        </li>
+        <li>
+          {/*<HamburgerMenu />*/}
         </li>
       </ul>
     </nav>
