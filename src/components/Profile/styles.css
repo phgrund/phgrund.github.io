@@ -1,0 +1,17 @@
+.profile-info img {
+  max-width: 350px;
+  border-radius: 50%;
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+  margin-bottom: 30px;
+}
+
+.profile-info span {
+  color: #444;
+  display: block;
+}
+
+@media (max-width: 450px) {
+  .profile-info img {
+    max-width: 80%;
+  }
+}

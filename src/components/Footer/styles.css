@@ -1,0 +1,13 @@
+footer {
+  padding: 5px 0;
+  background-color: #1A1A1A;
+  text-align: center;
+}
+
+footer p {
+  color: white;
+}
+
+footer span .heart {
+  color: #F00;
+}

@@ -1,0 +1,39 @@
+nav {
+  padding: 15px 50px 0 0;
+}
+
+nav ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: #1C7CFF;
+  font-weight: 600;
+  font-size: 22px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.5s transform;
+}
+
+nav li a:after {
+  display: block;
+  content: '';
+  border-bottom: 2px solid #1C7CFF;
+  transform: scaleX(0);  
+  transition: transform 250ms ease-in-out;
+}
+
+nav li a:hover {
+  transform: scale(1.1);
+}
+
+nav li a:hover::after {
+  transform: scaleX(1);
+}

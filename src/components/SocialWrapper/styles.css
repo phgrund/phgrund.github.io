@@ -1,0 +1,21 @@
+.social-wrapper {
+  margin: 20px 0;
+}
+
+.social-wrapper div {
+  margin-bottom: 10px;
+}
+
+.social-wrapper ul {
+  list-style-type: none;
+}
+
+.social-wrapper a {
+  color: #222;
+  font-weight: 500;
+  text-decoration-color: #999;
+}
+
+.social-wrapper strong {
+  font-size: 20px;
+}
