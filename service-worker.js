@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/phgrund.github.io/precache-manifest.da8b2acb230d598b5c3f2f93b3b41eef.js"
+  "/phgrund.github.io/precache-manifest.64257709e9446ddc1c065db4d6602820.js"
 );
 
 self.addEventListener('message', (event) => {
